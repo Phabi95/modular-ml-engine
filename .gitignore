@@ -5,3 +5,6 @@ __pycache__/
 *.png
 *.jpg
 .env
+
+!screenshots/
+!screenshots/*.png
