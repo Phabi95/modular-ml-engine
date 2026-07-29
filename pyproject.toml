@@ -1,0 +1,10 @@
+[project]
+name = "svm-project"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+    "scikit-learn",
+    "numpy",
+    "matplotlib",
+    "pandas"
+]
